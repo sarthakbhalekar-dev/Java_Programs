@@ -69,9 +69,6 @@ public class Tutorial_1 {
         c = sc.nextInt();
         System.out.println((a<b) && (b<c));
 
-        //Q7
-
-
 
     }
 }
